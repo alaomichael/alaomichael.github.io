@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
@@ -32,8 +32,8 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
    linkedin: michael-alao
-   medium: @contactleomax 
-  # stackoverflow: your_user_id
+   medium: contactleomax 
+  stackoverflow: 7965914
    twitter: contactleomax 
   # youtube: your_username
 
