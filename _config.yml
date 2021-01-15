@@ -21,9 +21,9 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 20
   exclude:
-    forks: false
+    forks: true
     projects:
     # - repo-name
 
@@ -41,6 +41,7 @@ topics:
   - name: JavaScript
   - name: PHP
   - name: React
+  - name: ReactNative  
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
